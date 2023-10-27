@@ -1,6 +1,6 @@
 <div align="center">
  <h1> 
-  👉 Hey there, Welcome to my profile! 
+  👉  Hey there, Welcome to my profile! 
  </h1> 
 </div>
 
