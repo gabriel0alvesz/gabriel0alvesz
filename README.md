@@ -20,8 +20,8 @@
   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/CSS3.svg">&nbsp;&nbsp;
   <img height="45" width="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/bootstrap-logo.png">&nbsp;&nbsp;
   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/javascript.svg">&nbsp;&nbsp;
-  <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/swift.svg">&nbsp;&nbsp;
-  <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/swiftui.svg">&nbsp;&nbsp;
+<!--   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/swift.svg">&nbsp;&nbsp; -->
+<!--   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/swiftui.svg">&nbsp;&nbsp; -->
 </p>
 
 
