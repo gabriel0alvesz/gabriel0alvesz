@@ -39,9 +39,10 @@
   <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Scilab.png">&nbsp;&nbsp;  
 </p>
 
-<a href="https://www.linkedin.com/in/gabriel0alves/">
+<!-- <a href="https://www.linkedin.com/in/gabriel0alves/">
     <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> <br>
+</a> <br> -->
+
 <a href="mailto:gabriel0alves.contact@gmail.com">
   ✉️ <i>gabriel0alves.contact@gmail.com</i>
 </a>
