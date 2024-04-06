@@ -5,7 +5,7 @@
 </div>
 
 
-👨🏽‍💻 **Computer Engineering** student at <a href="https://www.cefetmg.br/home/"> CEFET-MG</a>.<br>💻 Currently improving **Data Science**, **Web development** and **Swift-IOS devolopment**.
+👨🏽‍💻 **Computer Engineering** student at <a href="https://www.cefetmg.br/home/"> CEFET-MG</a>.<br>💻 Currently improving **Data Science** and **Web development**. Learning devolopment with **Swift**.
 
 ## 🛠️ Languages and Tools
 
