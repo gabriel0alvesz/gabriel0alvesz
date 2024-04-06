@@ -22,9 +22,6 @@
   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/javascript.svg">&nbsp;&nbsp;
 <!--   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/swift.svg">&nbsp;&nbsp; -->
 <!--   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/swiftui.svg">&nbsp;&nbsp; -->
-</p>
-
-<p align="left">
   <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/VSCode.svg">&nbsp;&nbsp;
 <!--   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Xcode.png">&nbsp;&nbsp; -->
   <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Git.svg">&nbsp;&nbsp;
