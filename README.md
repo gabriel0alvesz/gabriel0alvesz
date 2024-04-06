@@ -5,11 +5,11 @@
 </div>
 
 
-👨🏽‍💻 **Computer Engineering** student at <a href="https://www.cefetmg.br/home/"> CEFET-MG</a>.<br>💻 Currently improving **Data Science** and **Web development**. Learning devolopment with **Swift**.
+👨🏽‍💻 **Computer Engineering** student at <a href="https://www.cefetmg.br/home/"> CEFET-MG</a>.<br>💻 Currently improving **Data Science** and **Web development**. Studying devolopment with **Swift**.
 
 ## 🛠️ Languages and Tools
-
-<p align="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerd100oculoS&layout=compact" alt="Nerd100oculoS" />
+<p align="left">
   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/C.svg">&nbsp;&nbsp;
   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/C++.svg">&nbsp;&nbsp;
   <img height="64" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/java.svg">&nbsp;&nbsp;
@@ -24,10 +24,9 @@
 <!--   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/swiftui.svg">&nbsp;&nbsp; -->
 </p>
 
-
-<p align="center">
+<p align="left">
   <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/VSCode.svg">&nbsp;&nbsp;
-  <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Xcode.png">&nbsp;&nbsp;
+<!--   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Xcode.png">&nbsp;&nbsp; -->
   <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Git.svg">&nbsp;&nbsp;
   <img height="50" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/iterm.svg">&nbsp;&nbsp;
   <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/MySQL.svg">&nbsp;&nbsp;
