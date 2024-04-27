@@ -5,7 +5,7 @@
 </div>
 
 
-👨🏽‍💻 **Computer Engineering** student at <a href="https://www.cefetmg.br/home/"> CEFET-MG</a>.<br>💻 Currently improving **Data Science** and **Web development**. Studying devolopment with **Swift** and **Java-Springboot**.
+👨🏽‍💻 **Computer Engineering** student at <a href="https://www.cefetmg.br/home/"> CEFET-MG</a>.<br>💻 Currently improving **Data Science** and **Web development**. Studying devolopment **Java-Springboot**.
 
 ## 🛠️ Languages and Tools
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerd100oculoS&layout=compact" alt="Nerd100oculoS" />
