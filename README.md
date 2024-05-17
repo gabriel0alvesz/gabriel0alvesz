@@ -7,7 +7,7 @@
 <p>
  👨🏽‍💻 <strong> Computer Engineering</strong> student at <a href="https://www.cefetmg.br/home/"> CEFET-MG</a>.<br>💻 Currently improving <strong>Data Science</strong> and <strong>Web development</strong>. Studying Backend devolopment with <strong>Java-Springboot</strong>.<br>
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerd100oculoS&layout=compact" alt="Nerd100oculoS" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0alvesz&layout=compact" alt="Nerd100oculoS" />
 <br>
 
 
