@@ -4,38 +4,59 @@
  </h1> 
 </div>
 
-<p>
- 👨🏽‍💻 <strong> Computer Engineering</strong> student at <a href="https://www.cefetmg.br/home/"> CEFET-MG</a>.<br>💻 Currently improving <strong>Data Science</strong> and <strong>Web development</strong>. Studying Backend devolopment with <strong>Java-Springboot</strong>.<br>
-</p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel0alvesz&layout=compact" alt="Nerd100oculoS" />
-<br>
+<table>
+<tr>
+ <td>
+ 👨🏽‍💻 <strong>Computer Engineering</strong> student at <a href="https://www.cefetmg.br/home/">CEFET-MG</a>.<br>
+ ⚙️ Passionate about <strong>Automation (RPA)</strong>, <strong>Fullstack Development</strong>, and <strong>LLMs</strong>.<br>
+ 🚀 Experienced with <strong>Python</strong>, <strong>Django</strong>, <strong>FastAPI</strong>, <strong>Docker</strong>, and <strong>.NET (C#)</strong>.<br>
+ 🕹️ Browser automation using <strong>Selenium</strong>, <strong>Playwright</strong>, <strong>Puppeteer</strong> and <strong>n8n<strong/> <br>
+ 🧠 I build tools with <strong>Node.js</strong>, <strong>TypeScript</strong>, <strong>Electron</strong>, <strong>Vue</strong>, and <strong>TailwindCSS</strong>.<br>
+ 🗓️ Actively studying <strong>Generative AI</strong> and <strong>LLMs (LangChain)</strong>, integrating them into real-world systems.<br>
+ </td>
+ <td>
+  <img src="./assets/gabriel-office.png" height="190">
+ </td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Main Technologies & Tools
+
+<div align="center">
+
+<!-- Backend -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
+
+<!-- Frontend / Desktop -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" />
+<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" />
+
+<!-- Automation -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" />
+<img height="40" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" />
+<img height="40" src="https://avatars.githubusercontent.com/u/6906516?s=200&v=4" alt="Puppeteer" />
+<img height="35" width="45" src="https://docs.n8n.io/_images/n8n-docs-icon.svg" alt="n8n" />
+
+<!-- Extras -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" />
+
+</div>
 
 
-<p align="center">
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/C.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/C++.svg">&nbsp;&nbsp;
-  <img height="48" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/java.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/spring-3.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/junit.png">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Python.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Jupyter.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/django.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/HTML5.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/CSS3.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/javascript.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/nodeJS.png">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/swift.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/swiftui.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Xcode.png">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/VSCode.svg">&nbsp;&nbsp;
- <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/IntelliJ-IDEA.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Git.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/iterm.svg">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/MySQL.svg">&nbsp;&nbsp;
-  <img height="42" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Docker.webp">&nbsp;&nbsp;
-  <img height="45" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Notion.svg">&nbsp;&nbsp;
-  <img height="42" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Latex.svg">&nbsp;&nbsp;
-  <img height="42" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/figma.svg">&nbsp;&nbsp;
-  <img height="42" src="https://github.com/Nerd100oculoS/Nerd100oculoS/raw/main/assets/Scilab.png">&nbsp;&nbsp;  
-</p>
+
+
 
