@@ -23,6 +23,8 @@
 ---
 
 ### 🛠️ Main Technologies & Tools
+
+<div align="center">
  
 <!-- Backend -->
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
@@ -52,6 +54,7 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" />
+</div>
 
 
 
