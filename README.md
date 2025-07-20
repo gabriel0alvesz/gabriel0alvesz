@@ -10,9 +10,9 @@
  👨🏽‍💻 <strong>Computer Engineering</strong> student at <a href="https://www.cefetmg.br/home/">CEFET-MG</a>.<br>
  ⚙️ Passionate about <strong>Automation (RPA)</strong>, <strong>Fullstack Development</strong>, and <strong>LLMs</strong>.<br>
  🚀 Experienced with <strong>Python</strong>, <strong>Django</strong>, <strong>FastAPI</strong>, <strong>Docker</strong>, and <strong>.NET (C#)</strong>.<br>
- 🕹️ Browser automation using <strong>Selenium</strong>, <strong>Playwright</strong>, <strong>Puppeteer</strong> and <strong>n8n<strong/> <br>
- 🧠 I build tools with <strong>Node.js</strong>, <strong>TypeScript</strong>, <strong>Electron</strong>, <strong>Vue</strong>, and <strong>TailwindCSS</strong>.<br>
- 🗓️ Actively studying <strong>Generative AI</strong> and <strong>LLMs (LangChain)</strong>, integrating them into real-world systems.<br>
+ 🕹️ Browser automation using <strong>Selenium</strong>, <strong>Playwright</strong>, <strong>Puppeteer</strong><br>
+ 🧠 I build tools and solutions with <strong>Node.js</strong>, <strong>TypeScript</strong>, <strong>Electron</strong>, <strong>Vue</strong>, and <strong>TailwindCSS</strong> and <strong>n8n</strong><br>
+ 🗓️ Actively studying <strong>Generative AI</strong> and <strong>LLMs (with LangChain)</strong>, integrating them into real-world systems.<br>
  </td>
  <td>
   <img src="./assets/gabriel-office.png" height="190">
@@ -35,6 +35,12 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" />
 
+<!-- Automation -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" />
+<img height="40" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" />
+<img height="40" src="https://avatars.githubusercontent.com/u/6906516?s=200&v=4" alt="Puppeteer" />
+<img height="35" width="45" src="https://docs.n8n.io/_images/n8n-docs-icon.svg" alt="n8n" />
+
 <!-- Frontend / Desktop -->
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
@@ -43,11 +49,6 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" />
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" />
 
-<!-- Automation -->
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" />
-<img height="40" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" />
-<img height="40" src="https://avatars.githubusercontent.com/u/6906516?s=200&v=4" alt="Puppeteer" />
-<img height="35" width="45" src="https://docs.n8n.io/_images/n8n-docs-icon.svg" alt="n8n" />
 
 <!-- Extras -->
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
