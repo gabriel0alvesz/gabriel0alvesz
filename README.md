@@ -7,7 +7,7 @@
 <table>
 <tr>
  <td>
- 👨🏽‍💻 <strong>Computer Engineering</strong> student at <a href="https://www.cefetmg.br/home/">CEFET-MG</a>.<br>
+ 👨🏽‍💻 <strong>Computer Engineering</strong> student at <a href="https://www.cefetmg.br/home/">CEFET-MG</a>, currently in my <strong>last semester</strong>.<br>
  ⚙️ Passionate about <strong>Automation (RPA)</strong>, <strong>Fullstack Development</strong>, and <strong>LLMs</strong>.<br>
  🚀 Experienced with <strong>Python</strong>, <strong>Django</strong>, <strong>FastAPI</strong>, <strong>Docker</strong>, and <strong>.NET (C#)</strong>.<br>
  🕹️ Browser automation using <strong>Selenium</strong>, <strong>Playwright</strong>, <strong>Puppeteer</strong><br>
